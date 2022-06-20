@@ -1,4 +1,4 @@
-package simpleinterestinit
+package init
 
 import "fmt"
 
